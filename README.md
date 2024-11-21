@@ -3,6 +3,9 @@ c# project
 
 ![image](https://github.com/user-attachments/assets/be095413-5ad1-4341-b254-b8cd07c30a9f)
 
+![image](https://github.com/user-attachments/assets/00119a0c-6dfc-46c0-9b21-e47388e1ff78)
+
+
 Becoming a full-stack C# .NET developer is a rewarding journey that involves mastering both front-end and back-end technologies. This comprehensive roadmap will guide you step-by-step, from starting as a fresh graduate to becoming a proficient full-stack developer. Along the way, we'll provide recommended learning resources to help you at each stage.
 
 clear your all questions regarding this:
